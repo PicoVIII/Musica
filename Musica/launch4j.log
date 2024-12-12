@@ -1,0 +1,620 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\judev\Desktop\Musica\Musica.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\judev\Desktop\Musica\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\judev\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\judev\AppData\Local\Programs\Python\Python312\;C:\Users\judev\AppData\Local\Programs\Python\Launcher\;C:\Users\judev\AppData\Local\Microsoft\WindowsApps;C:\Users\judev\.dotnet\tools;C:\Users\judev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\judev\AppData\Roaming\npm;;C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\judev\Desktop\Musica\Musica.exe"
+Args length:	47/32768 chars
+Exit code:	0
